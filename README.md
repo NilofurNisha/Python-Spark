@@ -1,2 +1,2 @@
 # Python-Spark
-### This project includes usecases done in Spark using python
+### This project includes Spark usecases done in python
